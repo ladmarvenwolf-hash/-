@@ -1,0 +1,8 @@
+{
+  "name": "Market Sniper - Arizona RP Analytics",
+  "description": "Аналитика рынка Arizona RP: поиск выгодных сделок, арбитраж между лавками, импорт CSV и расчёт чистой прибыли с учётом комиссии.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
